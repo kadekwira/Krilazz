@@ -1,0 +1,90 @@
+
+html{
+  scroll-behavior: smooth !important;
+}
+.title-home{
+  font-size:60px;
+}
+#img-home{
+  width: 40% !important;
+}
+.caption_home{
+  width: 75%;
+}
+.home_made{
+  width: 25% !important;
+}
+.img-catalog{
+  width:300px;
+  height: 150px;
+}
+.line{
+  width: 25% !important;
+}
+.frame-catalog{
+  width:50% !important;
+}
+.logo{
+  width: 25% !important;
+}
+.section_banner{
+  margin-left: 100px;
+}
+.section_banner2{
+  margin-left: 200px;
+}
+.caption_section{
+  width: 50%;
+}
+.produksi_frame{
+  width: 50%;
+}
+.img_talas{
+  width: 50% !important;
+}
+.img_person{
+  width: 35% !important;
+}
+@media only screen and (max-width: 768px) {
+  .title-home{
+    font-size:50px;
+  }
+  #img-home{
+    width:100% !important;
+  }
+  .caption_home{
+    width: 100%;
+  }
+  .home_made{
+    width: 100% !important;
+  }
+  .line{
+    width: 100% !important;
+  }
+  .frame-catalog{
+    width: 100% !important;
+  }
+  .logo{
+    width: 70% !important;
+  }
+  .section_banner{
+    margin-left: 0;
+  }
+  .section_banner2{
+    margin-left: 0;
+  }
+  .produksi_frame{
+    width: 100%;
+    text-align: center;
+  }
+  .img_talas{
+    width: 100% !important;
+  }
+  .img_person{
+    width: 100% !important;
+    display: none;
+  }
+  .font_brand{
+    font-size: 12px !important;
+  }
+}
